@@ -1,7 +1,9 @@
-html{
-	font-family: "Arial";
+.hpts{
+	background-color: #e8bb6f;
+right: 10px;
 }
 .mainhead{
+	font-family: "Arial";
 	color: red;
 	font-size: 100px;
 	text-align: center;
@@ -17,8 +19,5 @@ background-color: #e8bb6f;
 	text-decoration: none;
     display: inline-block;
 	border: 5px solid black;
-}
-img{
-	top: 50%;
-	left: 50%;
+	font-family: "Arial";
 }
