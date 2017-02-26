@@ -2,6 +2,9 @@
 	background-color: #e8bb6f;
 right: 10px;
 }
+.pupper{
+	 filter: saturate(10);
+}
 .mainhead{
 	font-family: "Arial";
 	color: red;
